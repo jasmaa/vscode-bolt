@@ -1,6 +1,6 @@
 # vscode-bolt
 
-## **⚠️ This extension has been merged into [vscode-bolt-language](https://github.com/smkamranqadri/vscode-bolt-language) ⚠️**
+**⚠️ This extension has been merged into [vscode-bolt-language](https://github.com/smkamranqadri/vscode-bolt-language) ⚠️**
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/jasmaa.vscode-bolt.svg)](https://marketplace.visualstudio.com/items?itemName=jasmaa.vscode-bolt) [![Installs](https://vsmarketplacebadge.apphb.com/installs/jasmaa.vscode-bolt.svg)](https://marketplace.visualstudio.com/items?itemName=jasmaa.vscode-bolt)
 
